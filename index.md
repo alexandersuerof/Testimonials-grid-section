@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Testimonial Grid Section
 
 You can use the [editor on GitHub](https://github.com/alexandersuerof/Testimonials-grid-section/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
