@@ -29,7 +29,6 @@ body {
   height: 100vh;
   display: grid;
   grid-template-columns: repeat(8, 1fr);
-  grid-template-rows: 40vh 1fr;
   padding: 3rem 6rem;
   grid-gap: 1rem;
 }
